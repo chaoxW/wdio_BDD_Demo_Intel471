@@ -32,7 +32,7 @@
 
 #### Run `npm install` from command line from the project root folder 
 #### Run test with `npm run wdio` from command line
-#### You can watch the `UI_BDD_Demo` to see the test execution, test report you can check `test_report.png` or you can visit [test report](https://bdd-test-report.netlify.app/#suites/77cc29c2671cb6631964f761db1fc9b3/bdd2853770e89f7f/)
+#### You can watch the *UI_BDD_Demo.mov* to see the test execution, test report you can check `test_report.png` or you can visit [test report](https://bdd-test-report.netlify.app/#suites/77cc29c2671cb6631964f761db1fc9b3/bdd2853770e89f7f/)
 #### Generate the test report run `allure generate` after the execution of the tests
 
     ├── features
