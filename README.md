@@ -57,6 +57,31 @@ $ allure generate
     │       └── step definitions for the test
     ├── wdio.conf.js
     │   └── webdriverio configuration file
+    ├── selenium-4-grid.yml
+    │   └── run test from selenium 4 grid with docker config
     ├── package.json
     ├── allure-report
     └── allure-results
+    
+# 3. Run test from Selenium 4 grid with Docker
+
+#### Start the service
+
+```console 
+$ docker-compose -f ./selenium-4-grid.yml up
+```
+
+#### [Selenium 4 grid dashboard](http://localhost:4444/ui/index.html#/)
+
+<img width="1643" alt="image" src="https://user-images.githubusercontent.com/38011268/211156476-4f183e2f-6d0c-4a94-a258-90ebcf3d0e99.png">
+
+
+#### Run test from command line 
+```console 
+$ npm run wdio
+```
+
+#### Generate the test report after the execution of the tests and check [test report](https://bdd-test-report.netlify.app/#suites/77cc29c2671cb6631964f761db1fc9b3/bdd2853770e89f7f/)
+```console 
+$ allure generate
+```
