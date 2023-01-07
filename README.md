@@ -28,7 +28,7 @@
 
 # 2. Automation tests folder structure
 - ## WebdriverIO, Cucumber, NPM to build the automation test framework
-- ## we can also evaluate Cypress, Selenium, Playwright to build the automation test framework depends on the requirments from the product.
+- ## We can also evaluate Cypress, Selenium, Playwright to build the automation test framework depends on the requirments from the product.
 
 #### Build project from command line from the project root folder 
 ```console 
