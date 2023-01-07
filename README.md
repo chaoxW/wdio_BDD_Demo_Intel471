@@ -41,6 +41,8 @@ $ npm run wdio
 ```
 
 #### You can watch the *UI_BDD_Demo.mov* to see the test execution, test report you can check `test_report.png` or you can visit [test report](https://bdd-test-report.netlify.app/#suites/77cc29c2671cb6631964f761db1fc9b3/bdd2853770e89f7f/)
+<img width="1646" alt="image" src="https://user-images.githubusercontent.com/38011268/211156572-690ec52e-a902-482d-b833-032ebd8c2ce0.png">
+
 #### Generate the test report after the execution of the tests 
 ```console 
 $ allure generate
