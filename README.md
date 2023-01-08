@@ -40,7 +40,11 @@ $ npm install
 $ npm run wdio
 ```
 
-#### You can watch the *UI_BDD_Demo.mov* to see the test execution, test report you can check `test_report.png` or you can visit [test report](https://bdd-test-report.netlify.app/#suites/77cc29c2671cb6631964f761db1fc9b3/bdd2853770e89f7f/)
+#### You can watch the [UI_BDD_Demo.mov](https://drive.google.com/file/d/1qTfpk2wTFDw95R7VL6_PXak4IL_5a1Fw/view?usp=share_link) to see the test execution
+
+[![UI_BDD_Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1673211916/video_to_markdown/images/google-drive--1qTfpk2wTFDw95R7VL6_PXak4IL_5a1Fw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1qTfpk2wTFDw95R7VL6_PXak4IL_5a1Fw/view?usp=share_link "UI_BDD")
+
+#### Test report you can check `test_report.png` or you can visit [test report](https://bdd-test-report.netlify.app/#suites/77cc29c2671cb6631964f761db1fc9b3/bdd2853770e89f7f/)
 <img width="1646" alt="image" src="https://user-images.githubusercontent.com/38011268/211156572-690ec52e-a902-482d-b833-032ebd8c2ce0.png">
 
 #### Generate the test report after the execution of the tests 
