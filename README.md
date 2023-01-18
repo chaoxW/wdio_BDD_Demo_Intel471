@@ -91,3 +91,15 @@ $ npm run wdio
 ```console 
 $ allure generate
 ```
+
+#### If the website is not stable you can clone this [repository](https://github.com/jeffersonRibeiro/react-shopping-cart), then change the base url with localhost
+```console 
+/* First, Install the needed packages */
+$ npm install
+
+/* Then start the React app */
+$ npm start
+
+/* To run the tests */
+$ npm run test
+```
